@@ -1,4 +1,14 @@
 
+<div align="center">
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                  AURORA CELESTIAL HEADER BANNER              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0D1117,20:240046,45:5A189A,75:9D4EDD,100:00F5D4&height=250&section=header&text=%E2%9C%A7%20Pranjali%20%E2%9C%A7&fontSize=46&fontAlignY=36&animation=twinkling&fontColor=ffffff&desc=Aspiring%20Software%20Engineer%20%E2%80%A2%20Full%20Stack%20Web%20Developer&descAlignY=58&descAlign=50&descSize=18" width="100%"/>
+<!-- ═══════════════════ GLOWING TYPING SVG ═══════════════════ -->
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=00F5D4&background=1E1E2E00&center=true&vCenter=true&multiline=false&width=620&height=50&lines=%E2%9C%A8+Where+Creativity+Meets+Code;%F0%9F%92%BB+Full+Stack+Developer+(MERN+Stack);%F0%9F%9A%80+Aspiring+Software+Engineer;%F0%9F%8E%A8+Fueled+by+painting%2C+coding+%26+curiosity" alt="Typing SVG" />
+</a>
+<!-- ═══════════════════ QUICK BADGES & VIEWS ═══════════════════ -->
 <p align="center">
   <a href="YOUR_LINKEDIN_URL" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Pranjali-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -19,20 +29,3 @@ const pranjali = {
     role: "Aspiring Software Engineer | Full Stack Web Developer",
     
     focus_areas: [
-        "Full Stack Web Development (MERN Stack)",
-        "Backend & API Engineering (Node.js, Express, MongoDB)",
-        "Interactive & Responsive Frontend (React.js, JavaScript)"
-    ],
-    
-    hobbies_and_passions: [
-        "Painting & Visual Design 🎨",
-        "Creative Coding & Problem Solving 💻",
-        "Exploring New Things in Diverse Fields 🔭"
-    ],
-    
-    status: () => "Building impactful web projects & learning along the way 🚀",
-    get_fuel: () => ["Painting 🎨", "Clean Code 💻", "Curiosity 💡", "Coffee ☕"]
-};
-```
----
-### 💫 `about-me` ─── ⋆⋅☆⋅⋆ ──
