@@ -1,49 +1,38 @@
 
-<div align="center">
-<!-- Terminal Window Header -->
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td>
-      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,13,25&height=180&section=header&text=Pranjali%20%7C%20Full%20Stack%20Engineer&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=pranjali%40github%3A~%24%20whoami&descFontSize=16&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
-    </td>
-  </tr>
-</table>
-<!-- Animated Typing Terminal Text -->
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&width=650&lines=console.log(%22Hello%2C%20World!%20%F0%9F%91%8B%22);;Full+Stack+Software+Developer;Architecting+scalable+web+applications;React+%E2%80%A2+Node.js+%E2%80%A2+TypeScript+%E2%80%A2+Python;git+commit+-m+%22Building+the+future+one+line+at+a+time%22" alt="Typing SVG" />
-</a>
-<br/>
-<!-- Status Badges -->
-[![Terminal](https://img.shields.io/badge/Status-Shipping_Code-00E676?style=for-the-badge&logo=gnubash&logoColor=black)](#)
-[![Stack](https://img.shields.io/badge/Focus-Full_Stack_Architecture-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](#)
-[![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-FF6D00?style=for-the-badge&logo=git&logoColor=white)](#)
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Pranjali-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Pranjali-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=%E2%9C%A8+Profile+Views&color=9D4EDD&style=for-the-badge" alt="Views"/>
+</p>
 </div>
 ---
-### `> pranjali@workstation:~$ neofetch --developer`
-```bash
-╭───────────────────────────────╮
-│   _______  ____  __  ______   │   pranjali@dev-node
-│  / ___/ / / / / / / /_  __/   │   ─────────────────
-│ / /__/ /_/ / /_/ /   / /      │   Role: Full Stack Software Engineer
-│ \___/\____/\____/   /_/       │   Uptime: Coding, learning & deploying ⚡
-│                               │   Shell: zsh / bash
-│   FULL STACK DEVELOPER        │   Core Stack: React, TypeScript, Node.js, Python
-│                               │   DBs: PostgreSQL, MongoDB, Redis
-│                               │   Environment: VS Code, Linux/macOS, Docker
-│                               │   Current Mission: High-throughput web applications
-╰───────────────────────────────╯
-
-<!--
-**pranjalicodes09/pranjalicodes09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ `pranjali.js` ─── ⋆⋅☆⋅⋆ ──
+```javascript
+const pranjali = {
+    name: "Pranjali",
+    role: "Aspiring Software Engineer | Full Stack Web Developer",
+    
+    focus_areas: [
+        "Full Stack Web Development (MERN Stack)",
+        "Backend & API Engineering (Node.js, Express, MongoDB)",
+        "Interactive & Responsive Frontend (React.js, JavaScript)"
+    ],
+    
+    hobbies_and_passions: [
+        "Painting & Visual Design 🎨",
+        "Creative Coding & Problem Solving 💻",
+        "Exploring New Things in Diverse Fields 🔭"
+    ],
+    
+    status: () => "Building impactful web projects & learning along the way 🚀",
+    get_fuel: () => ["Painting 🎨", "Clean Code 💻", "Curiosity 💡", "Coffee ☕"]
+};
+```
+---
+### 💫 `about-me` ─── ⋆⋅☆⋅⋆ ──
